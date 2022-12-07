@@ -1,5 +1,6 @@
 # Mulan and Mushu's Adventure!!
-# Playable. lnik: https://gba.ninja/?autorun=https://ramyaramaswamy21.github.io/Media-Device-Architectures/Project.gba
+## Link to play my game online! : https://gba.ninja/?autorun=https://ramyaramaswamy21.github.io/Media-Device-Architectures/Project.gba
+(A pop-up will show up,  but click "Run it anyway" to play)
 ## My Final Project!! [UPDATES FOR MILESTONE 4 ARE IN BRACKETS]
 
 **IMPORTANT-[BEGINNERS HELP]**
