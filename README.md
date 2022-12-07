@@ -86,5 +86,3 @@
         -Lose by colliding with evil cricket and then losing the mini game by colliding with rice falling down
         -Shan Yu can send you back to the beginning of your cricket count to 0 constantly if you keep colliding with him without
         killing him
-
-# Thank you for your feedback on M1, M2, and M3 and all your help during office hours and on teams Sydney!! I really appreciate it :) <3
